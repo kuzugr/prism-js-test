@@ -1,0 +1,3 @@
+# PrismJsTest
+
+- Angularプロジェクトでprismjsを使うサンプル。
